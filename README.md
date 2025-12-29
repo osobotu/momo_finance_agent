@@ -1,11 +1,16 @@
 # MoMo Finance Agent
-Gain insights from your SMS!
+Gain insights from your MTN MoMo SMS history.
 
-The project features the following:
+This project demonstrates how raw mobile money SMS alerts can be transformed into structured financial insights and queried using an LLM-powered agent.
 
-1. Parses MTN MoMo-like SMS alerts and normalizes them to transactions.
-2. Generates weekly/monthly/yearly spend reports.
-3. Exposes the analytics as tools an LLM can call.
+## Features
+
+1. Parses MTN MoMo–style SMS alerts and normalizes them into structured transactions.
+2. Generates weekly, monthly, and yearly spending reports.
+3. Exposes transaction analytics as deterministic tools that an LLM can call (no hallucinated totals).
+
+The agent uses tool calling to retrieve and aggregate data, ensuring all numerical results come from verified computations.
+
 
 ## Quickstart
 ### 1. Create environment and install dependencies
@@ -22,7 +27,7 @@ python scripts/analyze.py --input ./momo_sms_2025_synthetic.json --out ./out
 
 Outputs:
 - `out/transactions.csv` (normalized table)
-- `out/report_monthly.md` (human-readable report)
+- `out/report_monthly.md`
 - `out/report_weekly.md`
 - `out/report_yearly.md`
 
