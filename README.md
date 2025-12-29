@@ -1,4 +1,4 @@
-# MoMo Finance Agent (Rwanda)
+# MoMo Finance Agent
 Gain insights from your SMS!
 
 The project features the following:
@@ -46,4 +46,4 @@ Try prompts like:
 - "Show top 5 recipients I transferred money to."
 - "What was my highest spending month and why?"
 - "What is my net income in 2025?"
-- "How much did I spend last in Decomber 2025?"
+- "Give me a monthly report of my expenses."
