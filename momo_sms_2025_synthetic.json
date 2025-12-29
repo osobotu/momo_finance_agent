@@ -1,0 +1,1610 @@
+{
+  "generated_at": "2025-12-28 21:12:29",
+  "date_range": {
+    "start": "2025-01-01",
+    "end": "2025-12-31"
+  },
+  "count": 320,
+  "messages": [
+    {
+      "id": 210,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:32771338966SYour payment of 35,700 RWF to KIGALI BOOKS & STATIONERY 138320 was completed at 2025-01-01 06:18:00.  Balance: 686,571 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 62,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*21600 RWF transferred to Patrick MUKIZA (250758557203) at 2025-01-01 10:43:43 .Fee : 0 RWF. Balance: 657878 RWF. *EN##"
+    },
+    {
+      "id": 305,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 40000 RWF from Aline NSANZUMUKIZA Aline NSANZUMUKIZA (*********430) at 2025-01-03 04:36:59. Message from sender: Transfer from Aline NSANZUMUKIZA-250795725874 Equity B2C. Balance:58325 RWF. FT Id: 25661424234."
+    },
+    {
+      "id": 309,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*2800 RWF transferred to Nsanzimana HABIMANA (250758009699) at 2025-01-03 06:58:55 .Fee : 200 RWF. Balance: 532262 RWF. *EN##"
+    },
+    {
+      "id": 220,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 42000 RWF from Aimable NDUWIMANA Aimable NDUWIMANA (*********635) at 2025-01-05 22:02:45. Message from sender: Transfer from Aimable NDUWIMANA-250795642347 Equity B2C. Balance:760777 RWF. FT Id: 24556728620."
+    },
+    {
+      "id": 237,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:56678637003SYour payment of 16,200 RWF to Patrick 945619 was completed at 2025-01-08 17:44:32.  Balance: 141,828 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 307,
+      "type": "sms_cash_tx",
+      "sms": "164S*Y'ello, A transaction of 100000 RWF by   was completed at 2025-01-10 14:16:26. Balance:544292 RWF. Fee  0 RWF. FT Id: 25724035815. ET  Id: ef196a23-5026-6d36-d240-ea122158278d.*EN#"
+    },
+    {
+      "id": 39,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*19700 RWF transferred to Mukamana NIYONSHUTI (250720200074) at 2025-01-10 23:20:24 .Fee : 100 RWF. Balance: 625859 RWF. *EN##"
+    },
+    {
+      "id": 35,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 104000 RWF from Habimana NSANZUMUKIZA Habimana NSANZUMUKIZA (*********960) at 2025-01-12 06:31:51. Message from sender: Transfer from Habimana NSANZUMUKIZA-250795590094 Equity B2C. Balance:138827 RWF. FT Id: 25336286652."
+    },
+    {
+      "id": 195,
+      "type": "sms_cash_power",
+      "sms": "162TxId:67503011876SYour payment of 20000 RWF to MTN Cash Power with token 77621-56302-50965-00583 and ET Id: 77621-56302-50965-00583 668235ba-6e38-facc-3bbe-5924a37935b4 was completed at 2025-01-12 08:05:30. Fee 0 RWF. Balance: 540638 RWF . Message: - Electricity units: 47.2kwH.. *EN#"
+    },
+    {
+      "id": 320,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*11300 RWF transferred to Yvette MUGABO (250782943217) at 2025-01-13 02:45:04 .Fee : 0 RWF. Balance: 570892 RWF. *EN##"
+    },
+    {
+      "id": 200,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*9100 RWF transferred to Didier MUKARUGWIZA (250776479831) at 2025-01-13 16:44:25 .Fee : 100 RWF. Balance: 581429 RWF. *EN##"
+    },
+    {
+      "id": 18,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*8000 RWF transferred to Kevin MUKAMANA (250751373735) at 2025-01-14 23:48:23 .Fee : 100 RWF. Balance: 387364 RWF. *EN##"
+    },
+    {
+      "id": 21,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:25081447213SYour payment of 37,800 RWF to IKAZE RESTO 328914 was completed at 2025-01-15 20:34:58.  Balance: 462,592 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 231,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:73800026806SYour payment of 9,400 RWF to KAZE BAKERY AND COFFEE SHOPS L 998345 was completed at 2025-01-20 00:15:10.  Balance: 429,035 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 118,
+      "type": "sms_cash_tx",
+      "sms": "164S*Y'ello, A transaction of 146000 RWF by   was completed at 2025-01-21 06:21:03. Balance:112573 RWF. Fee  0 RWF. FT Id: 25527721965. ET  Id: 39258e4d-27eb-0d1c-b7c2-b70a3a4419f4.*EN#"
+    },
+    {
+      "id": 112,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*3800 RWF transferred to Diane MUKIZA (250761883769) at 2025-01-21 08:04:55 .Fee : 100 RWF. Balance: 302949 RWF. *EN##"
+    },
+    {
+      "id": 107,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:94245819524SYour payment of 33,500 RWF to URUGO BARBERSHOP 896840 was completed at 2025-01-23 02:15:13.  Balance: 99,682 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 238,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 1000Frw=7GB +30SMS (Mon to Sunday) worth 1,000 RWF\n162TxId:82355084470S\n\nYour payment of 1000 RWF to Bundles and Packs with token  and ET Id: 82355084470 was completed at 2025-01-24 03:06:06. Fee 0 RWF. Balance: 121308 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 89,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*17300 RWF transferred to Diane MUNYANEZA (250757459130) at 2025-01-24 07:03:47 .Fee : 200 RWF. Balance: 702660 RWF. *EN##"
+    },
+    {
+      "id": 233,
+      "type": "sms_cash_power",
+      "sms": "162TxId:76789699241SYour payment of 10000 RWF to MTN Cash Power with token 25969-52505-48790-89952 and ET Id: 25969-52505-48790-89952 282026e4-2a31-e15d-cf0c-d5b6588e4179 was completed at 2025-01-24 22:47:54. Fee 0 RWF. Balance: 528125 RWF . Message: - Electricity units: 20.4kwH.. *EN#"
+    },
+    {
+      "id": 8,
+      "type": "sms_cash_power",
+      "sms": "162TxId:47450743307SYour payment of 30000 RWF to MTN Cash Power with token 41245-27869-85909-65435 and ET Id: 41245-27869-85909-65435 ce48478d-cb74-f213-45d2-cce8038a39d5 was completed at 2025-01-26 16:55:21. Fee 0 RWF. Balance: 480763 RWF . Message: - Electricity units: 77.5kwH.. *EN#"
+    },
+    {
+      "id": 11,
+      "type": "sms_cash_tx",
+      "sms": "164S*Y'ello, A transaction of 23000 RWF by   was completed at 2025-01-27 04:12:59. Balance:544131 RWF. Fee  0 RWF. FT Id: 24511111062. ET  Id: 8f64f7fd-633d-bdde-131c-a3766e4d58e7.*EN#"
+    },
+    {
+      "id": 215,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:52438524591SYour payment of 3,100 RWF to Diane 428572 was completed at 2025-01-28 12:10:03.  Balance: 390,416 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 59,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 2000Frw=7GB +30SMS (Mon to Sunday) worth 2,000 RWF\n162TxId:71369115197S\n\nYour payment of 2000 RWF to Bundles and Packs with token  and ET Id: 71369115197 was completed at 2025-01-28 17:35:16. Fee 0 RWF. Balance: 628948 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 97,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 112000 RWF from Alain UWASE Alain UWASE (*********179) at 2025-01-28 23:47:32. Message from sender: Transfer from Alain UWASE-250795428267 Equity B2C. Balance:608727 RWF. FT Id: 24921880985."
+    },
+    {
+      "id": 179,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:64716402846SYour payment of 18,700 RWF to Nkurunziza 764693 was completed at 2025-01-29 13:07:55.  Balance: 166,771 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 7,
+      "type": "sms_cash_tx",
+      "sms": "164S*Y'ello, A transaction of 163000 RWF by   was completed at 2025-01-31 14:28:15. Balance:384201 RWF. Fee  0 RWF. FT Id: 25239854303. ET  Id: 62179273-c8eb-5bb6-8257-5ec87a171ac8.*EN#"
+    },
+    {
+      "id": 161,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 139000 RWF from Kevin NTEZIRYAYO Kevin NTEZIRYAYO (*********980) at 2025-02-01 03:59:02. Message from sender: Transfer from Kevin NTEZIRYAYO-250795464663 Equity B2C. Balance:129395 RWF. FT Id: 24383269190."
+    },
+    {
+      "id": 61,
+      "type": "sms_cash_power",
+      "sms": "162TxId:82434239416SYour payment of 30000 RWF to MTN Cash Power with token 42247-79129-32816-03390 and ET Id: 42247-79129-32816-03390 270815fe-85df-2fbd-aa35-adf9c1e2a8a3 was completed at 2025-02-01 05:46:20. Fee 0 RWF. Balance: 428808 RWF . Message: - Electricity units: 74.8kwH.. *EN#"
+    },
+    {
+      "id": 110,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:80970334045SYour payment of 6,800 RWF to Mukamana 559022 was completed at 2025-02-02 18:00:16.  Balance: 465,767 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 219,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:23639295296SYour payment of 16,100 RWF to Cynthia 157701 was completed at 2025-02-03 11:33:41.  Balance: 329,314 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 181,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:18702728618SYour payment of 28,900 RWF to SIMBA SUPERMARKET 427865 was completed at 2025-02-03 21:40:09.  Balance: 113,310 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 295,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:84268503900SYour payment of 17,900 RWF to KIMIRONKO FOODS 870196 was completed at 2025-02-07 20:10:43.  Balance: 669,441 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 314,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:93014614273SYour payment of 5,400 RWF to Emmanuel 609462 was completed at 2025-02-08 20:29:15.  Balance: 477,536 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 150,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:78197207101SYour payment of 14,500 RWF to Grace 526673 was completed at 2025-02-09 01:08:47.  Balance: 689,607 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 283,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*29600 RWF transferred to Samuel NSANZUMUKIZA (250792050405) at 2025-02-10 06:40:34 .Fee : 200 RWF. Balance: 403197 RWF. *EN##"
+    },
+    {
+      "id": 310,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 23000 RWF from Sandrine MUTONI Sandrine MUTONI (*********548) at 2025-02-11 05:15:17. Message from sender: Transfer from Sandrine MUTONI-250795499941 Equity B2C. Balance:419306 RWF. FT Id: 25765494347."
+    },
+    {
+      "id": 301,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 1000Frw=7GB +30SMS (Mon to Sunday) worth 1,000 RWF\n162TxId:17173687087S\n\nYour payment of 1000 RWF to Bundles and Packs with token  and ET Id: 17173687087 was completed at 2025-02-11 08:22:36. Fee 0 RWF. Balance: 60642 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 298,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:73959597937SYour payment of 16,700 RWF to Iradukunda 804791 was completed at 2025-02-11 20:26:58.  Balance: 622,413 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 241,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:69633696761SYour payment of 11,700 RWF to Habimana 540038 was completed at 2025-02-11 22:57:19.  Balance: 179,418 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 66,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:67008925827SYour payment of 18,800 RWF to Sandrine 633590 was completed at 2025-02-15 14:51:49.  Balance: 744,677 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 278,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 128000 RWF from Patrick IRADUKUNDA Patrick IRADUKUNDA (*********304) at 2025-02-15 17:21:56. Message from sender: Transfer from Patrick IRADUKUNDA-250795915749 Equity B2C. Balance:280769 RWF. FT Id: 25785630123."
+    },
+    {
+      "id": 127,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:78713587664SYour payment of 23,300 RWF to MURAKOZE PHARMACY 641599 was completed at 2025-02-15 17:36:43.  Balance: 304,449 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 60,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:72250376461SYour payment of 21,100 RWF to NYABUGOGO SUPERMARKET 524783 was completed at 2025-02-18 07:03:36.  Balance: 571,211 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 84,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*28500 RWF transferred to Emmanuel MUNYANEZA (250790180577) at 2025-02-19 00:11:27 .Fee : 200 RWF. Balance: 561329 RWF. *EN##"
+    },
+    {
+      "id": 208,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*18000 RWF transferred to Niyonsenga MUKAMANA (250716166355) at 2025-02-20 17:13:35 .Fee : 200 RWF. Balance: 109411 RWF. *EN##"
+    },
+    {
+      "id": 135,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 104000 RWF from Odette MUKAMANA Odette MUKAMANA (*********510) at 2025-02-22 00:21:50. Message from sender: Transfer from Odette MUKAMANA-250795153642 Equity B2C. Balance:602983 RWF. FT Id: 25206492542."
+    },
+    {
+      "id": 184,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*10700 RWF transferred to Emmanuel NSANZUMUKIZA (250763450811) at 2025-02-22 20:46:19 .Fee : 100 RWF. Balance: 339640 RWF. *EN##"
+    },
+    {
+      "id": 198,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:67946521437SYour payment of 29,200 RWF to SIMBA SUPERMARKET 684793 was completed at 2025-02-23 00:35:44.  Balance: 524,013 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 216,
+      "type": "sms_cash_tx",
+      "sms": "164S*Y'ello, A transaction of 39000 RWF by   was completed at 2025-02-23 06:08:15. Balance:677741 RWF. Fee  0 RWF. FT Id: 25454140813. ET  Id: 4205eb64-de62-343c-bda4-782790966c91.*EN#"
+    },
+    {
+      "id": 144,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:70210877534SYour payment of 29,800 RWF to CHICKEN INN KIGALI 115233 was completed at 2025-02-27 09:22:09.  Balance: 205,051 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 288,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*3200 RWF transferred to Mugisha NGABO (250731062435) at 2025-02-27 17:33:35 .Fee : 0 RWF. Balance: 535126 RWF. *EN##"
+    },
+    {
+      "id": 164,
+      "type": "sms_cash_power",
+      "sms": "162TxId:99943428764SYour payment of 30000 RWF to MTN Cash Power with token 14790-04222-86533-54950 and ET Id: 14790-04222-86533-54950 076231e1-71ce-7614-97aa-7947d9815df1 was completed at 2025-03-02 05:50:09. Fee 0 RWF. Balance: 366145 RWF . Message: - Electricity units: 72.1kwH.. *EN#"
+    },
+    {
+      "id": 228,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:39078374920SYour payment of 16,500 RWF to KACYIRU FRUITS & VEG 126601 was completed at 2025-03-02 08:31:52.  Balance: 566,957 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 140,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*15800 RWF transferred to Emmanuel MUKIZA (250778412668) at 2025-03-05 02:37:43 .Fee : 200 RWF. Balance: 563198 RWF. *EN##"
+    },
+    {
+      "id": 212,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 2000Frw=7GB +30SMS (Mon to Sunday) worth 2,000 RWF\n162TxId:66840214977S\n\nYour payment of 2000 RWF to Bundles and Packs with token  and ET Id: 66840214977 was completed at 2025-03-06 06:48:20. Fee 0 RWF. Balance: 766253 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 197,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:74465670003SYour payment of 8,500 RWF to Iradukunda 572908 was completed at 2025-03-06 19:17:57.  Balance: 654,498 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 221,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 69000 RWF from Habimana NGABO Habimana NGABO (*********220) at 2025-03-06 20:12:27. Message from sender: Transfer from Habimana NGABO-250795908903 Equity B2C. Balance:35782 RWF. FT Id: 24719430697."
+    },
+    {
+      "id": 316,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 1000Frw=7GB +30SMS (Mon to Sunday) worth 1,000 RWF\n162TxId:68586955429S\n\nYour payment of 1000 RWF to Bundles and Packs with token  and ET Id: 68586955429 was completed at 2025-03-07 11:50:03. Fee 0 RWF. Balance: 237286 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 28,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:41398012517SYour payment of 34,400 RWF to JAVA HOUSE KIGALI 649342 was completed at 2025-03-07 21:38:18.  Balance: 356,470 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 103,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 20000 RWF from Grace MUTONI Grace MUTONI (*********743) at 2025-03-09 09:07:41. Message from sender: Transfer from Grace MUTONI-250795618119 Equity B2C. Balance:491490 RWF. FT Id: 25620160072."
+    },
+    {
+      "id": 258,
+      "type": "sms_cash_tx",
+      "sms": "164S*Y'ello, A transaction of 19000 RWF by   was completed at 2025-03-09 11:20:58. Balance:266609 RWF. Fee  0 RWF. FT Id: 24071019522. ET  Id: e1b68bec-307b-fe5f-bb58-290c1567768d.*EN#"
+    },
+    {
+      "id": 136,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:95852490847SYour payment of 20,200 RWF to SIMBA SUPERMARKET 472230 was completed at 2025-03-17 14:19:08.  Balance: 581,566 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 302,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 74000 RWF from Uwimana MUGABO Uwimana MUGABO (*********249) at 2025-03-19 15:13:32. Message from sender: Transfer from Uwimana MUGABO-250795980155 Equity B2C. Balance:70046 RWF. FT Id: 25483041141."
+    },
+    {
+      "id": 128,
+      "type": "sms_cash_tx",
+      "sms": "164S*Y'ello, A transaction of 120000 RWF by   was completed at 2025-03-19 17:47:50. Balance:186043 RWF. Fee  0 RWF. FT Id: 25929898512. ET  Id: e2ab2995-5b73-647f-0bbe-4229cfdd24a2.*EN#"
+    },
+    {
+      "id": 79,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*19200 RWF transferred to Beatrice NGABO (250746578001) at 2025-03-19 23:32:35 .Fee : 200 RWF. Balance: 177537 RWF. *EN##"
+    },
+    {
+      "id": 276,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*15900 RWF transferred to Uwimana HABIMANA (250798916958) at 2025-03-21 19:21:05 .Fee : 100 RWF. Balance: 550583 RWF. *EN##"
+    },
+    {
+      "id": 256,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:17821210150SYour payment of 25,300 RWF to IKAZE RESTO 541590 was completed at 2025-03-24 02:18:08.  Balance: 397,073 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 230,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:80421333738SYour payment of 5,100 RWF to CHICKEN INN KIGALI 260276 was completed at 2025-03-25 12:08:20.  Balance: 378,023 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 93,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:90223487600SYour payment of 11,500 RWF to Diane 397005 was completed at 2025-03-25 17:14:54.  Balance: 716,163 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 4,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:68833060730SYour payment of 45,000 RWF to KAZE BAKERY AND COFFEE SHOPS L 795667 was completed at 2025-03-27 14:39:19.  Balance: 172,414 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 248,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*8200 RWF transferred to Uwimana HABIMANA (250721503440) at 2025-03-29 20:43:51 .Fee : 200 RWF. Balance: 705596 RWF. *EN##"
+    },
+    {
+      "id": 49,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:83248631494SYour payment of 36,700 RWF to SIMBA SUPERMARKET 132731 was completed at 2025-03-30 08:17:48.  Balance: 292,636 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 143,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*9200 RWF transferred to Mugisha MUKARUGWIZA (250793179531) at 2025-03-30 08:51:23 .Fee : 200 RWF. Balance: 403658 RWF. *EN##"
+    },
+    {
+      "id": 224,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:63102874703SYour payment of 800 RWF to Claudine 148215 was completed at 2025-03-30 16:53:00.  Balance: 499,681 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 149,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 3000Frw=7GB +30SMS (Mon to Sunday) worth 3,000 RWF\n162TxId:77505538841S\n\nYour payment of 3000 RWF to Bundles and Packs with token  and ET Id: 77505538841 was completed at 2025-04-01 10:11:38. Fee 0 RWF. Balance: 351337 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 227,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 1000Frw=7GB +30SMS (Mon to Sunday) worth 1,000 RWF\n162TxId:25396203788S\n\nYour payment of 1000 RWF to Bundles and Packs with token  and ET Id: 25396203788 was completed at 2025-04-01 17:24:52. Fee 0 RWF. Balance: 147723 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 173,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*18600 RWF transferred to Nkurunziza MUNYANEZA (250720605783) at 2025-04-04 13:59:32 .Fee : 100 RWF. Balance: 396172 RWF. *EN##"
+    },
+    {
+      "id": 226,
+      "type": "sms_cash_power",
+      "sms": "162TxId:54350912792SYour payment of 5000 RWF to MTN Cash Power with token 30539-70981-45406-83354 and ET Id: 30539-70981-45406-83354 0a0c9367-df14-8217-dbe2-34c21d4798ac was completed at 2025-04-06 04:44:53. Fee 0 RWF. Balance: 739764 RWF . Message: - Electricity units: 11.4kwH.. *EN#"
+    },
+    {
+      "id": 53,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 58000 RWF from Niyonsenga MUKIZA Niyonsenga MUKIZA (*********489) at 2025-04-07 09:18:26. Message from sender: Transfer from Niyonsenga MUKIZA-250795572398 Equity B2C. Balance:469226 RWF. FT Id: 24638560981."
+    },
+    {
+      "id": 126,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:86938079221SYour payment of 5,200 RWF to Aimable 642895 was completed at 2025-04-07 22:32:57.  Balance: 410,785 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 113,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*8100 RWF transferred to Eric IRADUKUNDA (250799068509) at 2025-04-08 20:46:15 .Fee : 100 RWF. Balance: 153298 RWF. *EN##"
+    },
+    {
+      "id": 297,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:56028253625SYour payment of 10,500 RWF to Patrick 579247 was completed at 2025-04-09 18:08:53.  Balance: 204,836 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 274,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*2900 RWF transferred to Diane NTEZIRYAYO (250712649695) at 2025-04-10 08:07:40 .Fee : 200 RWF. Balance: 55578 RWF. *EN##"
+    },
+    {
+      "id": 80,
+      "type": "sms_cash_power",
+      "sms": "162TxId:29488614274SYour payment of 15000 RWF to MTN Cash Power with token 97853-44396-15095-61385 and ET Id: 97853-44396-15095-61385 247cb2c0-83eb-8cb3-7f0a-72e9d34119f3 was completed at 2025-04-10 19:08:05. Fee 0 RWF. Balance: 106913 RWF . Message: - Electricity units: 33.5kwH.. *EN#"
+    },
+    {
+      "id": 170,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*21800 RWF transferred to Kevin NIYONSHUTI (250754273769) at 2025-04-12 06:35:27 .Fee : 100 RWF. Balance: 246192 RWF. *EN##"
+    },
+    {
+      "id": 75,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 21000 RWF from Nsanzimana NDUWIMANA Nsanzimana NDUWIMANA (*********972) at 2025-04-13 22:11:28. Message from sender: Transfer from Nsanzimana NDUWIMANA-250795807115 Equity B2C. Balance:564543 RWF. FT Id: 24816063961."
+    },
+    {
+      "id": 15,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 77000 RWF from Samuel NDUWIMANA Samuel NDUWIMANA (*********869) at 2025-04-14 03:42:24. Message from sender: Transfer from Samuel NDUWIMANA-250795176066 Equity B2C. Balance:14767 RWF. FT Id: 24984160659."
+    },
+    {
+      "id": 69,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:70767754594SYour payment of 15,700 RWF to URUGO BARBERSHOP 615448 was completed at 2025-04-14 18:13:46.  Balance: 613,093 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 277,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 108000 RWF from Iradukunda NGABO Iradukunda NGABO (*********207) at 2025-04-15 20:22:09. Message from sender: Transfer from Iradukunda NGABO-250795636435 Equity B2C. Balance:758681 RWF. FT Id: 25326496271."
+    },
+    {
+      "id": 317,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:59157438181SYour payment of 19,200 RWF to Emmanuel 603268 was completed at 2025-04-18 10:50:34.  Balance: 490,331 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 234,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:96969427372SYour payment of 33,400 RWF to KIGALI BOOKS & STATIONERY 835922 was completed at 2025-04-19 15:42:04.  Balance: 556,356 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 160,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 108000 RWF from Odette NGABO Odette NGABO (*********491) at 2025-04-22 11:52:45. Message from sender: Transfer from Odette NGABO-250795570325 Equity B2C. Balance:400833 RWF. FT Id: 24806692651."
+    },
+    {
+      "id": 185,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*29900 RWF transferred to Emmanuel MUNYANEZA (250747621248) at 2025-04-24 04:29:37 .Fee : 0 RWF. Balance: 417022 RWF. *EN##"
+    },
+    {
+      "id": 50,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:51120292731SYour payment of 19,700 RWF to Aimable 207570 was completed at 2025-04-24 10:54:39.  Balance: 17,861 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 85,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*5500 RWF transferred to Diane RUTAYISIRE (250797874085) at 2025-04-25 12:38:46 .Fee : 200 RWF. Balance: 687535 RWF. *EN##"
+    },
+    {
+      "id": 131,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 41000 RWF from Samuel MUNYANEZA Samuel MUNYANEZA (*********595) at 2025-04-26 12:17:04. Message from sender: Transfer from Samuel MUNYANEZA-250795587002 Equity B2C. Balance:218933 RWF. FT Id: 24730557975."
+    },
+    {
+      "id": 95,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 66000 RWF from Sandrine NDUWIMANA Sandrine NDUWIMANA (*********222) at 2025-04-28 01:25:55. Message from sender: Transfer from Sandrine NDUWIMANA-250795108105 Equity B2C. Balance:526546 RWF. FT Id: 25604200608."
+    },
+    {
+      "id": 240,
+      "type": "sms_cash_power",
+      "sms": "162TxId:57535816620SYour payment of 30000 RWF to MTN Cash Power with token 57261-83789-63858-85089 and ET Id: 57261-83789-63858-85089 a5b75c99-450c-15a7-3f4a-27ba52ae0867 was completed at 2025-04-28 04:39:18. Fee 0 RWF. Balance: 731847 RWF . Message: - Electricity units: 64.6kwH.. *EN#"
+    },
+    {
+      "id": 293,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*23800 RWF transferred to Odette RUTAYISIRE (250717284695) at 2025-04-29 07:03:31 .Fee : 100 RWF. Balance: 238746 RWF. *EN##"
+    },
+    {
+      "id": 246,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*14000 RWF transferred to Mugisha MUKIZA (250762013009) at 2025-04-30 18:03:43 .Fee : 0 RWF. Balance: 198862 RWF. *EN##"
+    },
+    {
+      "id": 65,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*5200 RWF transferred to Iradukunda NGABO (250725228493) at 2025-05-01 16:24:04 .Fee : 0 RWF. Balance: 488863 RWF. *EN##"
+    },
+    {
+      "id": 145,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:78378116818SYour payment of 10,900 RWF to KACYIRU FRUITS & VEG 526195 was completed at 2025-05-02 19:49:33.  Balance: 646,181 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 24,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:54703707157SYour payment of 8,100 RWF to Beatrice 424308 was completed at 2025-05-02 21:54:21.  Balance: 704,287 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 76,
+      "type": "sms_cash_power",
+      "sms": "162TxId:73585414880SYour payment of 20000 RWF to MTN Cash Power with token 70912-04705-80931-08968 and ET Id: 70912-04705-80931-08968 7972d33e-5901-a19b-bd47-d5552c7f47e8 was completed at 2025-05-03 23:29:45. Fee 0 RWF. Balance: 486894 RWF . Message: - Electricity units: 50.8kwH.. *EN#"
+    },
+    {
+      "id": 180,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:27618949788SYour payment of 8,300 RWF to Samuel 477400 was completed at 2025-05-03 23:39:18.  Balance: 287,870 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 72,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 98000 RWF from Fabrice NTEZIRYAYO Fabrice NTEZIRYAYO (*********911) at 2025-05-04 13:37:05. Message from sender: Transfer from Fabrice NTEZIRYAYO-250795960616 Equity B2C. Balance:688691 RWF. FT Id: 24326643687."
+    },
+    {
+      "id": 244,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:21733786613SYour payment of 9,200 RWF to Grace 493696 was completed at 2025-05-04 18:39:24.  Balance: 173,720 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 109,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*3600 RWF transferred to Diane MUTONI (250756095437) at 2025-05-05 20:50:47 .Fee : 100 RWF. Balance: 754014 RWF. *EN##"
+    },
+    {
+      "id": 91,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*4800 RWF transferred to Kevin NSANZUMUKIZA (250792924837) at 2025-05-06 23:28:03 .Fee : 0 RWF. Balance: 57179 RWF. *EN##"
+    },
+    {
+      "id": 168,
+      "type": "sms_cash_power",
+      "sms": "162TxId:39696823387SYour payment of 15000 RWF to MTN Cash Power with token 12119-70206-94972-24966 and ET Id: 12119-70206-94972-24966 18c1266f-6a90-663f-76c7-a9ceb98bfe3f was completed at 2025-05-09 06:16:27. Fee 0 RWF. Balance: 340788 RWF . Message: - Electricity units: 33.3kwH.. *EN#"
+    },
+    {
+      "id": 32,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:12987248494SYour payment of 11,000 RWF to URUGO BARBERSHOP 440552 was completed at 2025-05-09 12:02:17.  Balance: 413,396 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 290,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:19599251932SYour payment of 6,200 RWF to Yvette 774567 was completed at 2025-05-09 12:09:48.  Balance: 402,030 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 5,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:24516677245SYour payment of 20,000 RWF to Emmanuel 207175 was completed at 2025-05-13 03:21:52.  Balance: 102,251 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 269,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*23900 RWF transferred to Emmanuel RUTAYISIRE (250734207075) at 2025-05-14 01:54:53 .Fee : 0 RWF. Balance: 89736 RWF. *EN##"
+    },
+    {
+      "id": 249,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:68079048638SYour payment of 39,200 RWF to KFC KIGALI 238564 was completed at 2025-05-14 12:22:04.  Balance: 585,493 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 191,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:15584591723SYour payment of 36,100 RWF to KIGALI FUEL STATION 334400 was completed at 2025-05-16 06:23:38.  Balance: 75,437 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 182,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*17100 RWF transferred to Alain MUGABO (250765540647) at 2025-05-18 10:43:12 .Fee : 100 RWF. Balance: 411637 RWF. *EN##"
+    },
+    {
+      "id": 6,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*2700 RWF transferred to Samuel MUKIZA (250726753883) at 2025-05-20 09:55:49 .Fee : 200 RWF. Balance: 401922 RWF. *EN##"
+    },
+    {
+      "id": 186,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*28400 RWF transferred to Uwimana MUTONI (250783833059) at 2025-05-22 18:11:29 .Fee : 0 RWF. Balance: 33223 RWF. *EN##"
+    },
+    {
+      "id": 81,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 139000 RWF from Chantal IRADUKUNDA Chantal IRADUKUNDA (*********860) at 2025-05-25 02:04:40. Message from sender: Transfer from Chantal IRADUKUNDA-250795861894 Equity B2C. Balance:167029 RWF. FT Id: 25901411630."
+    },
+    {
+      "id": 247,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:46357147099SYour payment of 23,300 RWF to KAZE BAKERY AND COFFEE SHOPS L 276085 was completed at 2025-05-25 02:09:42.  Balance: 466,101 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 178,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 98000 RWF from Eric MUTONI Eric MUTONI (*********733) at 2025-05-26 19:13:59. Message from sender: Transfer from Eric MUTONI-250795409727 Equity B2C. Balance:263421 RWF. FT Id: 25531388925."
+    },
+    {
+      "id": 171,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:45809565927SYour payment of 28,600 RWF to JAVA HOUSE KIGALI 989294 was completed at 2025-05-28 12:21:47.  Balance: 723,113 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 268,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:40031905358SYour payment of 45,000 RWF to URUGO BARBERSHOP 158102 was completed at 2025-05-29 05:24:53.  Balance: 149,037 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 22,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:86478381824SYour payment of 1,600 RWF to Mukamana 557239 was completed at 2025-05-30 14:16:53.  Balance: 6,773 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 308,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:83522563410SYour payment of 16,600 RWF to KAZE BAKERY AND COFFEE SHOPS L 408422 was completed at 2025-05-31 16:43:33.  Balance: 711,004 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 262,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*29700 RWF transferred to Emmanuel MUKARUGWIZA (250739845082) at 2025-05-31 18:59:04 .Fee : 0 RWF. Balance: 724656 RWF. *EN##"
+    },
+    {
+      "id": 158,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:59064406677SYour payment of 6,000 RWF to Didier 176577 was completed at 2025-06-03 18:30:34.  Balance: 52,489 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 153,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:48694507843SYour payment of 19,600 RWF to Nsanzimana 403528 was completed at 2025-06-04 04:15:27.  Balance: 44,286 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 281,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:69270115309SYour payment of 43,200 RWF to KACYIRU FRUITS & VEG 723415 was completed at 2025-06-05 15:31:01.  Balance: 506,476 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 190,
+      "type": "sms_cash_power",
+      "sms": "162TxId:39138217770SYour payment of 30000 RWF to MTN Cash Power with token 54827-71256-04818-47124 and ET Id: 54827-71256-04818-47124 237b51ca-d303-877e-bce4-b0f39d234b9a was completed at 2025-06-05 15:46:27. Fee 0 RWF. Balance: 482450 RWF . Message: - Electricity units: 69.4kwH.. *EN#"
+    },
+    {
+      "id": 25,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*10300 RWF transferred to Uwimana MUNYANEZA (250733357554) at 2025-06-06 06:38:36 .Fee : 100 RWF. Balance: 650414 RWF. *EN##"
+    },
+    {
+      "id": 174,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:96245592959SYour payment of 36,100 RWF to MURAKOZE PHARMACY 314546 was completed at 2025-06-07 16:26:59.  Balance: 722,269 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 56,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*15400 RWF transferred to Claudine MUGABO (250747945817) at 2025-06-08 15:39:35 .Fee : 0 RWF. Balance: 742135 RWF. *EN##"
+    },
+    {
+      "id": 169,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 1000Frw=7GB +30SMS (Mon to Sunday) worth 1,000 RWF\n162TxId:10626733282S\n\nYour payment of 1000 RWF to Bundles and Packs with token  and ET Id: 10626733282 was completed at 2025-06-10 18:06:31. Fee 0 RWF. Balance: 782259 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 82,
+      "type": "sms_cash_tx",
+      "sms": "164S*Y'ello, A transaction of 162000 RWF by   was completed at 2025-06-11 03:00:14. Balance:432940 RWF. Fee  0 RWF. FT Id: 24600737389. ET  Id: 1b6ee7b3-bb1c-863e-2601-a7462667a408.*EN#"
+    },
+    {
+      "id": 142,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 7000 RWF from Cynthia UWASE Cynthia UWASE (*********371) at 2025-06-11 18:26:12. Message from sender: Transfer from Cynthia UWASE-250795787436 Equity B2C. Balance:611574 RWF. FT Id: 25240460419."
+    },
+    {
+      "id": 14,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*16600 RWF transferred to Patrick NTEZIRYAYO (250752169044) at 2025-06-12 19:27:33 .Fee : 100 RWF. Balance: 255280 RWF. *EN##"
+    },
+    {
+      "id": 205,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:59693090941SYour payment of 5,700 RWF to Iradukunda 316995 was completed at 2025-06-16 06:48:22.  Balance: 67,241 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 96,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:60707243702SYour payment of 36,500 RWF to MURAKOZE PHARMACY 524563 was completed at 2025-06-17 05:59:44.  Balance: 590,864 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 130,
+      "type": "sms_cash_tx",
+      "sms": "164S*Y'ello, A transaction of 36000 RWF by   was completed at 2025-06-18 00:17:40. Balance:548269 RWF. Fee  0 RWF. FT Id: 24328598212. ET  Id: 955a7b92-8684-9254-5a10-2186d0f99f7c.*EN#"
+    },
+    {
+      "id": 100,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*20700 RWF transferred to Habimana NDUWIMANA (250739738898) at 2025-06-19 04:47:58 .Fee : 100 RWF. Balance: 354247 RWF. *EN##"
+    },
+    {
+      "id": 125,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*27600 RWF transferred to Fabrice NDUWIMANA (250797182566) at 2025-06-22 09:48:50 .Fee : 100 RWF. Balance: 297227 RWF. *EN##"
+    },
+    {
+      "id": 129,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*7000 RWF transferred to Mugisha IRADUKUNDA (250734422678) at 2025-06-24 18:03:58 .Fee : 200 RWF. Balance: 140300 RWF. *EN##"
+    },
+    {
+      "id": 229,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:16886131772SYour payment of 6,600 RWF to SENGHA LTD 165271 was completed at 2025-06-25 12:10:20.  Balance: 724,380 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 87,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 81000 RWF from Chantal NDUWIMANA Chantal NDUWIMANA (*********781) at 2025-06-26 02:54:58. Message from sender: Transfer from Chantal NDUWIMANA-250795367271 Equity B2C. Balance:397483 RWF. FT Id: 24327789590."
+    },
+    {
+      "id": 223,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:25989211379SYour payment of 15,000 RWF to Grace 485548 was completed at 2025-06-26 18:45:02.  Balance: 169,951 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 299,
+      "type": "sms_cash_power",
+      "sms": "162TxId:89372584447SYour payment of 10000 RWF to MTN Cash Power with token 65382-00568-69515-96497 and ET Id: 65382-00568-69515-96497 1df5543c-acd7-8ca9-e44d-9a6669b45a3b was completed at 2025-06-27 15:09:50. Fee 0 RWF. Balance: 594593 RWF . Message: - Electricity units: 23.4kwH.. *EN#"
+    },
+    {
+      "id": 291,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*5000 RWF transferred to Samuel NDUWIMANA (250725932563) at 2025-06-28 07:04:18 .Fee : 100 RWF. Balance: 526533 RWF. *EN##"
+    },
+    {
+      "id": 194,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:63395610899SYour payment of 9,900 RWF to KIGALI CITY MARKET 671590 was completed at 2025-06-29 10:39:24.  Balance: 694,237 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 51,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:61820255459SYour payment of 49,900 RWF to KAZE BAKERY AND COFFEE SHOPS L 264742 was completed at 2025-07-02 07:05:47.  Balance: 505,935 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 166,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:18223750737SYour payment of 44,400 RWF to CHICKEN INN KIGALI 151363 was completed at 2025-07-03 21:30:55.  Balance: 490,517 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 151,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 74000 RWF from Emmanuel MUGABO Emmanuel MUGABO (*********761) at 2025-07-05 10:08:33. Message from sender: Transfer from Emmanuel MUGABO-250795162036 Equity B2C. Balance:98806 RWF. FT Id: 25400800856."
+    },
+    {
+      "id": 251,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*9300 RWF transferred to Fabrice NSANZUMUKIZA (250792979370) at 2025-07-08 13:58:41 .Fee : 100 RWF. Balance: 643221 RWF. *EN##"
+    },
+    {
+      "id": 94,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:35802819564SYour payment of 11,700 RWF to KACYIRU FRUITS & VEG 628437 was completed at 2025-07-08 23:44:45.  Balance: 62,443 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 270,
+      "type": "sms_cash_power",
+      "sms": "162TxId:71378638015SYour payment of 15000 RWF to MTN Cash Power with token 83165-07603-00617-59251 and ET Id: 83165-07603-00617-59251 8655f24d-dcdf-c016-b0a6-0077b943c952 was completed at 2025-07-09 08:34:58. Fee 0 RWF. Balance: 52939 RWF . Message: - Electricity units: 36.6kwH.. *EN#"
+    },
+    {
+      "id": 141,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:25778878332SYour payment of 42,200 RWF to KAZE BAKERY AND COFFEE SHOPS L 386251 was completed at 2025-07-10 05:42:06.  Balance: 352,329 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 52,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 500Frw=7GB +30SMS (Mon to Sunday) worth 500 RWF\n162TxId:19894898206S\n\nYour payment of 500 RWF to Bundles and Packs with token  and ET Id: 19894898206 was completed at 2025-07-10 23:24:36. Fee 0 RWF. Balance: 164097 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 242,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:98382075344SYour payment of 19,700 RWF to SENGHA LTD 869067 was completed at 2025-07-11 11:51:26.  Balance: 507,780 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 73,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:79147735218SYour payment of 15,600 RWF to Emmanuel 205239 was completed at 2025-07-12 08:47:51.  Balance: 466,694 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 273,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:99664074309SYour payment of 33,800 RWF to IKAZE RESTO 039178 was completed at 2025-07-15 23:31:32.  Balance: 398,417 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 133,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:75632925700SYour payment of 30,300 RWF to KIMIRONKO FOODS 051021 was completed at 2025-07-16 07:05:01.  Balance: 57,995 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 42,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:97454931693SYour payment of 11,200 RWF to Iradukunda 614013 was completed at 2025-07-16 11:53:46.  Balance: 115,665 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 108,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*2600 RWF transferred to Nkurunziza IRADUKUNDA (250797488142) at 2025-07-16 22:12:52 .Fee : 100 RWF. Balance: 202383 RWF. *EN##"
+    },
+    {
+      "id": 68,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:82102697247SYour payment of 2,200 RWF to Jean Claude 910208 was completed at 2025-07-17 09:08:54.  Balance: 440,098 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 201,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:73217538757SYour payment of 14,400 RWF to Iradukunda 484682 was completed at 2025-07-18 09:03:24.  Balance: 573,373 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 259,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 500Frw=7GB +30SMS (Mon to Sunday) worth 500 RWF\n162TxId:31094798207S\n\nYour payment of 500 RWF to Bundles and Packs with token  and ET Id: 31094798207 was completed at 2025-07-19 08:07:40. Fee 0 RWF. Balance: 502126 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 257,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:12442428958SYour payment of 18,600 RWF to Beatrice 522979 was completed at 2025-07-20 02:39:42.  Balance: 147,239 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 139,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*26800 RWF transferred to Emmanuel NGABO (250792284610) at 2025-07-21 16:31:54 .Fee : 0 RWF. Balance: 339002 RWF. *EN##"
+    },
+    {
+      "id": 214,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:74992197391SYour payment of 18,300 RWF to Emmanuel 956800 was completed at 2025-07-21 17:34:16.  Balance: 131,451 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 296,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:24642448717SYour payment of 4,700 RWF to Aimable 247271 was completed at 2025-07-22 17:15:13.  Balance: 756,678 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 279,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:76778747505SYour payment of 21,400 RWF to NYABUGOGO SUPERMARKET 168163 was completed at 2025-07-23 04:04:30.  Balance: 46,319 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 147,
+      "type": "sms_cash_power",
+      "sms": "162TxId:47349771337SYour payment of 20000 RWF to MTN Cash Power with token 69878-44869-71601-46437 and ET Id: 69878-44869-71601-46437 8f678979-96fa-fb89-3ccb-49192be8f668 was completed at 2025-07-24 01:48:07. Fee 0 RWF. Balance: 594318 RWF . Message: - Electricity units: 41.6kwH.. *EN#"
+    },
+    {
+      "id": 117,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:48109253079SYour payment of 5,600 RWF to Nkurunziza 734035 was completed at 2025-07-24 20:16:53.  Balance: 150,121 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 206,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*17000 RWF transferred to Sandrine MUGABO (250786871268) at 2025-07-26 17:12:59 .Fee : 200 RWF. Balance: 285329 RWF. *EN##"
+    },
+    {
+      "id": 36,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 3000Frw=7GB +30SMS (Mon to Sunday) worth 3,000 RWF\n162TxId:18706337023S\n\nYour payment of 3000 RWF to Bundles and Packs with token  and ET Id: 18706337023 was completed at 2025-07-27 10:23:35. Fee 0 RWF. Balance: 625644 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 263,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*18800 RWF transferred to Sandrine RUTAYISIRE (250732815223) at 2025-07-27 15:09:37 .Fee : 200 RWF. Balance: 694558 RWF. *EN##"
+    },
+    {
+      "id": 250,
+      "type": "sms_cash_power",
+      "sms": "162TxId:46124497642SYour payment of 25000 RWF to MTN Cash Power with token 30886-62424-39171-10348 and ET Id: 30886-62424-39171-10348 c143e556-641d-2d64-8a22-cca8e0d3d443 was completed at 2025-07-27 23:21:21. Fee 0 RWF. Balance: 115766 RWF . Message: - Electricity units: 55.7kwH.. *EN#"
+    },
+    {
+      "id": 162,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:71411001438SYour payment of 6,200 RWF to Iradukunda 103642 was completed at 2025-07-28 15:36:43.  Balance: 797,911 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 34,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*11700 RWF transferred to Claudine MUGABO (250768496914) at 2025-07-29 00:34:45 .Fee : 100 RWF. Balance: 514232 RWF. *EN##"
+    },
+    {
+      "id": 70,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:56956242898SYour payment of 39,500 RWF to SIMBA SUPERMARKET 395533 was completed at 2025-07-29 03:56:05.  Balance: 482,463 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 13,
+      "type": "sms_cash_power",
+      "sms": "162TxId:16848407638SYour payment of 10000 RWF to MTN Cash Power with token 21798-53269-63653-63092 and ET Id: 21798-53269-63653-63092 6c15c0c8-e9df-4696-11a1-1f5125227c37 was completed at 2025-07-29 22:38:41. Fee 0 RWF. Balance: 612040 RWF . Message: - Electricity units: 23.7kwH.. *EN#"
+    },
+    {
+      "id": 202,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:49717845900SYour payment of 38,100 RWF to URUGO BARBERSHOP 685424 was completed at 2025-08-01 04:22:53.  Balance: 792,842 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 245,
+      "type": "sms_cash_power",
+      "sms": "162TxId:74776422292SYour payment of 15000 RWF to MTN Cash Power with token 77860-80431-63273-92340 and ET Id: 77860-80431-63273-92340 0d5d513a-66d8-9973-1cf4-1b0d29f63065 was completed at 2025-08-01 10:50:26. Fee 0 RWF. Balance: 674191 RWF . Message: - Electricity units: 37.6kwH.. *EN#"
+    },
+    {
+      "id": 17,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*6200 RWF transferred to Mukamana NGABO (250730005727) at 2025-08-03 06:02:03 .Fee : 0 RWF. Balance: 577092 RWF. *EN##"
+    },
+    {
+      "id": 232,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:10521637779SYour payment of 24,100 RWF to SENGHA LTD 842946 was completed at 2025-08-04 21:51:52.  Balance: 151,583 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 167,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:36865001734SYour payment of 27,600 RWF to KIGALI CITY MARKET 407286 was completed at 2025-08-07 09:49:01.  Balance: 259,655 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 104,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:55631973575SYour payment of 47,800 RWF to KIGALI BOOKS & STATIONERY 591912 was completed at 2025-08-07 22:23:43.  Balance: 679,225 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 124,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 1000Frw=7GB +30SMS (Mon to Sunday) worth 1,000 RWF\n162TxId:58837920696S\n\nYour payment of 1000 RWF to Bundles and Packs with token  and ET Id: 58837920696 was completed at 2025-08-09 07:06:11. Fee 0 RWF. Balance: 717048 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 154,
+      "type": "sms_cash_power",
+      "sms": "162TxId:50070435559SYour payment of 15000 RWF to MTN Cash Power with token 37298-59552-84058-71211 and ET Id: 37298-59552-84058-71211 f4e863a5-e850-a965-cda2-c354fa708c7e was completed at 2025-08-09 13:47:17. Fee 0 RWF. Balance: 795371 RWF . Message: - Electricity units: 35.2kwH.. *EN#"
+    },
+    {
+      "id": 26,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*500 RWF transferred to Sandrine NIYONSHUTI (250767698610) at 2025-08-10 00:26:43 .Fee : 100 RWF. Balance: 613158 RWF. *EN##"
+    },
+    {
+      "id": 155,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 2000Frw=7GB +30SMS (Mon to Sunday) worth 2,000 RWF\n162TxId:15309879144S\n\nYour payment of 2000 RWF to Bundles and Packs with token  and ET Id: 15309879144 was completed at 2025-08-11 11:36:14. Fee 0 RWF. Balance: 731420 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 98,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*15300 RWF transferred to Fabrice MUKAMANA (250753589647) at 2025-08-11 16:28:20 .Fee : 0 RWF. Balance: 185222 RWF. *EN##"
+    },
+    {
+      "id": 152,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 10000 RWF from Grace MUNYANEZA Grace MUNYANEZA (*********957) at 2025-08-11 23:18:38. Message from sender: Transfer from Grace MUNYANEZA-250795284327 Equity B2C. Balance:43105 RWF. FT Id: 25795732688."
+    },
+    {
+      "id": 196,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:83758481832SYour payment of 16,700 RWF to Yvette 827117 was completed at 2025-08-12 05:34:50.  Balance: 681,604 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 10,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*800 RWF transferred to Mukamana NTEZIRYAYO (250717901903) at 2025-08-17 11:26:04 .Fee : 0 RWF. Balance: 245062 RWF. *EN##"
+    },
+    {
+      "id": 271,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:32284120139SYour payment of 35,600 RWF to KIGALI CITY MARKET 359381 was completed at 2025-08-20 14:34:13.  Balance: 518,989 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 134,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*24500 RWF transferred to Yvette MUKAMANA (250724428014) at 2025-08-21 01:16:42 .Fee : 100 RWF. Balance: 456860 RWF. *EN##"
+    },
+    {
+      "id": 3,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 1000Frw=7GB +30SMS (Mon to Sunday) worth 1,000 RWF\n162TxId:68175080694S\n\nYour payment of 1000 RWF to Bundles and Packs with token  and ET Id: 68175080694 was completed at 2025-08-22 19:13:16. Fee 0 RWF. Balance: 755800 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 138,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*2800 RWF transferred to Kevin MUKARUGWIZA (250754699966) at 2025-08-22 23:21:42 .Fee : 0 RWF. Balance: 501756 RWF. *EN##"
+    },
+    {
+      "id": 38,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 30000 RWF from Niyonsenga RUTAYISIRE Niyonsenga RUTAYISIRE (*********267) at 2025-08-24 07:19:45. Message from sender: Transfer from Niyonsenga RUTAYISIRE-250795426147 Equity B2C. Balance:118349 RWF. FT Id: 25242716010."
+    },
+    {
+      "id": 132,
+      "type": "sms_cash_tx",
+      "sms": "164S*Y'ello, A transaction of 86000 RWF by   was completed at 2025-08-24 14:29:00. Balance:774864 RWF. Fee  0 RWF. FT Id: 25848505320. ET  Id: bc4b3a7e-38e7-4319-cd75-aa65fef9f02c.*EN#"
+    },
+    {
+      "id": 27,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*23100 RWF transferred to Patrick MUKIZA (250773509974) at 2025-08-24 14:29:44 .Fee : 200 RWF. Balance: 776711 RWF. *EN##"
+    },
+    {
+      "id": 111,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:94520222127SYour payment of 14,900 RWF to KACYIRU FRUITS & VEG 428625 was completed at 2025-08-25 19:47:54.  Balance: 359,803 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 115,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 115000 RWF from Claudine MUKIZA Claudine MUKIZA (*********344) at 2025-08-26 03:09:42. Message from sender: Transfer from Claudine MUKIZA-250795424500 Equity B2C. Balance:496798 RWF. FT Id: 25941270100."
+    },
+    {
+      "id": 148,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:96868598265SYour payment of 3,000 RWF to JAVA HOUSE KIGALI 949154 was completed at 2025-08-28 02:31:33.  Balance: 561,837 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 16,
+      "type": "sms_cash_power",
+      "sms": "162TxId:32599925789SYour payment of 5000 RWF to MTN Cash Power with token 70468-27938-66307-34760 and ET Id: 70468-27938-66307-34760 4b27b95e-9093-4833-4896-a68f812d810a was completed at 2025-08-30 05:37:25. Fee 0 RWF. Balance: 142174 RWF . Message: - Electricity units: 12.2kwH.. *EN#"
+    },
+    {
+      "id": 55,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 41000 RWF from Claudine NSANZUMUKIZA Claudine NSANZUMUKIZA (*********665) at 2025-08-31 22:13:21. Message from sender: Transfer from Claudine NSANZUMUKIZA-250795178711 Equity B2C. Balance:169136 RWF. FT Id: 24005746077."
+    },
+    {
+      "id": 209,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:72024850874SYour payment of 6,800 RWF to KIGALI BOOKS & STATIONERY 899312 was completed at 2025-09-01 04:24:58.  Balance: 170,657 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 121,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*17500 RWF transferred to Aline NDUWIMANA (250783284724) at 2025-09-01 23:46:45 .Fee : 0 RWF. Balance: 359992 RWF. *EN##"
+    },
+    {
+      "id": 176,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 1000Frw=7GB +30SMS (Mon to Sunday) worth 1,000 RWF\n162TxId:97762973686S\n\nYour payment of 1000 RWF to Bundles and Packs with token  and ET Id: 97762973686 was completed at 2025-09-05 06:55:20. Fee 0 RWF. Balance: 91702 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 1,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 63000 RWF from Claudine NSANZUMUKIZA Claudine NSANZUMUKIZA (*********854) at 2025-09-06 07:53:23. Message from sender: Transfer from Claudine NSANZUMUKIZA-250795207473 Equity B2C. Balance:714570 RWF. FT Id: 25590571865."
+    },
+    {
+      "id": 37,
+      "type": "sms_cash_tx",
+      "sms": "164S*Y'ello, A transaction of 51000 RWF by   was completed at 2025-09-07 14:51:39. Balance:57727 RWF. Fee  0 RWF. FT Id: 24558681426. ET  Id: ca6eaac8-d82f-01b7-2107-60474f36e8b5.*EN#"
+    },
+    {
+      "id": 260,
+      "type": "sms_cash_tx",
+      "sms": "164S*Y'ello, A transaction of 62000 RWF by   was completed at 2025-09-09 09:56:24. Balance:269650 RWF. Fee  0 RWF. FT Id: 25306408542. ET  Id: 98dcbe86-e9c3-0b99-3f2a-8a8896471ca4.*EN#"
+    },
+    {
+      "id": 282,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:35101291459SYour payment of 3,800 RWF to Mukamana 861697 was completed at 2025-09-09 23:41:15.  Balance: 66,495 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 218,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:40313475229SYour payment of 18,300 RWF to Chantal 865416 was completed at 2025-09-10 08:56:36.  Balance: 255,229 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 213,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:42614605114SYour payment of 5,900 RWF to Aimable 181724 was completed at 2025-09-12 13:33:54.  Balance: 144,145 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 31,
+      "type": "sms_cash_power",
+      "sms": "162TxId:19508855212SYour payment of 5000 RWF to MTN Cash Power with token 55724-28683-23053-91214 and ET Id: 55724-28683-23053-91214 e173e4ea-ede5-fe87-8f78-e2978aa2447c was completed at 2025-09-12 18:54:13. Fee 0 RWF. Balance: 732659 RWF . Message: - Electricity units: 11.2kwH.. *EN#"
+    },
+    {
+      "id": 189,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:89367708673SYour payment of 19,800 RWF to SENGHA LTD 470880 was completed at 2025-09-13 19:11:01.  Balance: 631,979 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 315,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*29400 RWF transferred to Odette MUTONI (250752457517) at 2025-09-14 02:15:39 .Fee : 200 RWF. Balance: 454112 RWF. *EN##"
+    },
+    {
+      "id": 311,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 1000Frw=7GB +30SMS (Mon to Sunday) worth 1,000 RWF\n162TxId:28124185292S\n\nYour payment of 1000 RWF to Bundles and Packs with token  and ET Id: 28124185292 was completed at 2025-09-14 14:23:10. Fee 0 RWF. Balance: 564381 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 300,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 137000 RWF from Sandrine NGABO Sandrine NGABO (*********967) at 2025-09-17 02:21:22. Message from sender: Transfer from Sandrine NGABO-250795542904 Equity B2C. Balance:18390 RWF. FT Id: 25122554103."
+    },
+    {
+      "id": 156,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:51961147800SYour payment of 21,200 RWF to JAVA HOUSE KIGALI 526930 was completed at 2025-09-17 08:13:03.  Balance: 742,733 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 163,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:59223010754SYour payment of 19,900 RWF to URUGO BARBERSHOP 240820 was completed at 2025-09-19 13:28:25.  Balance: 264,535 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 92,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:46138643987SYour payment of 22,200 RWF to KIGALI FUEL STATION 636565 was completed at 2025-09-19 17:50:37.  Balance: 468,516 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 304,
+      "type": "sms_cash_tx",
+      "sms": "164S*Y'ello, A transaction of 195000 RWF by   was completed at 2025-09-20 08:21:31. Balance:683553 RWF. Fee  0 RWF. FT Id: 25205319333. ET  Id: c791ccda-1086-e7b6-69e5-2553c1d88458.*EN#"
+    },
+    {
+      "id": 77,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:69966458246SYour payment of 9,300 RWF to Didier 413685 was completed at 2025-09-21 03:47:28.  Balance: 674,975 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 20,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*1900 RWF transferred to Jean Claude NSANZUMUKIZA (250787925434) at 2025-09-21 21:34:04 .Fee : 0 RWF. Balance: 283361 RWF. *EN##"
+    },
+    {
+      "id": 265,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*11800 RWF transferred to Claudine MUKARUGWIZA (250751216287) at 2025-09-21 23:22:42 .Fee : 100 RWF. Balance: 445897 RWF. *EN##"
+    },
+    {
+      "id": 137,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:36389427366SYour payment of 2,900 RWF to Fabrice 491326 was completed at 2025-09-22 05:46:29.  Balance: 360,556 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 252,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:77627480538SYour payment of 8,900 RWF to Mukamana 349119 was completed at 2025-09-22 09:38:08.  Balance: 56,685 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 88,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:83573285650SYour payment of 2,600 RWF to Eric 552855 was completed at 2025-09-24 17:38:09.  Balance: 106,255 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 23,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 51000 RWF from Odette MUNYANEZA Odette MUNYANEZA (*********171) at 2025-09-24 17:58:21. Message from sender: Transfer from Odette MUNYANEZA-250795796503 Equity B2C. Balance:351239 RWF. FT Id: 25338216051."
+    },
+    {
+      "id": 275,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:30194370234SYour payment of 6,800 RWF to SIMBA SUPERMARKET 265015 was completed at 2025-09-25 20:56:01.  Balance: 502,440 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 157,
+      "type": "sms_cash_power",
+      "sms": "162TxId:52120380726SYour payment of 15000 RWF to MTN Cash Power with token 48174-80560-28947-28721 and ET Id: 48174-80560-28947-28721 4f4ebdf6-72eb-2316-45ae-36f2e1e4de1e was completed at 2025-09-26 01:58:21. Fee 0 RWF. Balance: 710448 RWF . Message: - Electricity units: 36.5kwH.. *EN#"
+    },
+    {
+      "id": 78,
+      "type": "sms_cash_tx",
+      "sms": "164S*Y'ello, A transaction of 55000 RWF by   was completed at 2025-09-26 02:11:17. Balance:408380 RWF. Fee  0 RWF. FT Id: 25832523945. ET  Id: f37cb990-c801-f97b-7684-319e1b429ad5.*EN#"
+    },
+    {
+      "id": 40,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:91534990643SYour payment of 36,100 RWF to IKAZE RESTO 316232 was completed at 2025-09-26 04:59:34.  Balance: 722,497 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 123,
+      "type": "sms_cash_power",
+      "sms": "162TxId:58818009062SYour payment of 25000 RWF to MTN Cash Power with token 34959-10828-95300-55640 and ET Id: 34959-10828-95300-55640 2d59a32a-99ed-5ebe-1bd8-12cb504e1427 was completed at 2025-09-26 18:32:45. Fee 0 RWF. Balance: 681502 RWF . Message: - Electricity units: 55.7kwH.. *EN#"
+    },
+    {
+      "id": 159,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 500Frw=7GB +30SMS (Mon to Sunday) worth 500 RWF\n162TxId:16322497674S\n\nYour payment of 500 RWF to Bundles and Packs with token  and ET Id: 16322497674 was completed at 2025-09-30 00:03:36. Fee 0 RWF. Balance: 77371 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 287,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:64294418704SYour payment of 37,700 RWF to MURAKOZE PHARMACY 505339 was completed at 2025-09-30 01:52:50.  Balance: 367,544 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 199,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*4700 RWF transferred to Alain MUTONI (250739598969) at 2025-10-03 19:00:23 .Fee : 200 RWF. Balance: 311278 RWF. *EN##"
+    },
+    {
+      "id": 261,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 3000Frw=7GB +30SMS (Mon to Sunday) worth 3,000 RWF\n162TxId:63337333503S\n\nYour payment of 3000 RWF to Bundles and Packs with token  and ET Id: 63337333503 was completed at 2025-10-08 02:50:48. Fee 0 RWF. Balance: 314963 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 47,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:36592465992SYour payment of 14,200 RWF to Niyonsenga 823688 was completed at 2025-10-08 02:51:26.  Balance: 199,143 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 187,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 113000 RWF from Nkurunziza MUGABO Nkurunziza MUGABO (*********951) at 2025-10-10 10:07:11. Message from sender: Transfer from Nkurunziza MUGABO-250795826490 Equity B2C. Balance:77518 RWF. FT Id: 25758715152."
+    },
+    {
+      "id": 102,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*8000 RWF transferred to Diane NSANZUMUKIZA (250744355473) at 2025-10-10 11:39:52 .Fee : 0 RWF. Balance: 211854 RWF. *EN##"
+    },
+    {
+      "id": 48,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 135000 RWF from Cynthia MUGABO Cynthia MUGABO (*********202) at 2025-10-14 20:17:39. Message from sender: Transfer from Cynthia MUGABO-250795973074 Equity B2C. Balance:208547 RWF. FT Id: 24636184435."
+    },
+    {
+      "id": 292,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:98558214805SYour payment of 11,000 RWF to Aline 684194 was completed at 2025-10-17 10:07:50.  Balance: 580,771 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 46,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:23875055243SYour payment of 23,700 RWF to NYABUGOGO SUPERMARKET 321517 was completed at 2025-10-17 16:37:19.  Balance: 268,615 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 312,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 140000 RWF from Sandrine NTEZIRYAYO Sandrine NTEZIRYAYO (*********247) at 2025-10-18 00:15:03. Message from sender: Transfer from Sandrine NTEZIRYAYO-250795412534 Equity B2C. Balance:715189 RWF. FT Id: 25904771001."
+    },
+    {
+      "id": 90,
+      "type": "sms_cash_power",
+      "sms": "162TxId:57920707938SYour payment of 5000 RWF to MTN Cash Power with token 37700-78696-40953-46090 and ET Id: 37700-78696-40953-46090 364f73bb-387d-0805-89ab-054c24026cde was completed at 2025-10-19 09:09:21. Fee 0 RWF. Balance: 362455 RWF . Message: - Electricity units: 10.9kwH.. *EN#"
+    },
+    {
+      "id": 63,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:71366617919SYour payment of 3,100 RWF to MURAKOZE PHARMACY 280028 was completed at 2025-10-21 18:33:40.  Balance: 580,898 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 243,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:11266622851SYour payment of 2,300 RWF to Nkurunziza 986846 was completed at 2025-10-22 11:20:31.  Balance: 40,035 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 119,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:36868988675SYour payment of 700 RWF to KIGALI BOOKS & STATIONERY 083074 was completed at 2025-10-22 16:54:43.  Balance: 24,927 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 9,
+      "type": "sms_cash_power",
+      "sms": "162TxId:19555002319SYour payment of 30000 RWF to MTN Cash Power with token 39117-83748-66540-79818 and ET Id: 39117-83748-66540-79818 64b50af0-3b97-1722-f244-f58d669cbee3 was completed at 2025-10-23 22:00:08. Fee 0 RWF. Balance: 264947 RWF . Message: - Electricity units: 66.1kwH.. *EN#"
+    },
+    {
+      "id": 172,
+      "type": "sms_cash_power",
+      "sms": "162TxId:26827891652SYour payment of 30000 RWF to MTN Cash Power with token 96940-64303-60401-22050 and ET Id: 96940-64303-60401-22050 b54f5112-10d4-7240-6eb1-ff00d00890d5 was completed at 2025-10-24 11:02:12. Fee 0 RWF. Balance: 117214 RWF . Message: - Electricity units: 69.4kwH.. *EN#"
+    },
+    {
+      "id": 286,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 58000 RWF from Uwimana RUTAYISIRE Uwimana RUTAYISIRE (*********446) at 2025-10-26 01:53:10. Message from sender: Transfer from Uwimana RUTAYISIRE-250795644315 Equity B2C. Balance:553513 RWF. FT Id: 25477987671."
+    },
+    {
+      "id": 255,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:70936719795SYour payment of 21,800 RWF to KFC KIGALI 676913 was completed at 2025-10-28 14:29:27.  Balance: 98,624 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 318,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*9400 RWF transferred to Cynthia HABIMANA (250747663633) at 2025-10-28 21:21:05 .Fee : 200 RWF. Balance: 151802 RWF. *EN##"
+    },
+    {
+      "id": 204,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:98520400395SYour payment of 19,300 RWF to Didier 822608 was completed at 2025-10-29 05:24:39.  Balance: 372,663 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 101,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*6300 RWF transferred to Beatrice NIYONSHUTI (250756892354) at 2025-10-30 13:54:17 .Fee : 200 RWF. Balance: 373154 RWF. *EN##"
+    },
+    {
+      "id": 284,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:24981373279SYour payment of 18,000 RWF to Iradukunda 862606 was completed at 2025-10-30 14:20:15.  Balance: 142,002 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 183,
+      "type": "sms_cash_power",
+      "sms": "162TxId:99590906665SYour payment of 10000 RWF to MTN Cash Power with token 74967-68302-22227-89825 and ET Id: 74967-68302-22227-89825 c54898f4-25d8-d9f2-b87f-6e3490cacaea was completed at 2025-10-30 14:22:56. Fee 0 RWF. Balance: 456533 RWF . Message: - Electricity units: 25.8kwH.. *EN#"
+    },
+    {
+      "id": 236,
+      "type": "sms_cash_power",
+      "sms": "162TxId:40306010719SYour payment of 25000 RWF to MTN Cash Power with token 42153-50905-35446-23568 and ET Id: 42153-50905-35446-23568 0a7081fb-7537-7817-cb55-7ab0b46f95f1 was completed at 2025-10-31 11:30:11. Fee 0 RWF. Balance: 99641 RWF . Message: - Electricity units: 59.0kwH.. *EN#"
+    },
+    {
+      "id": 41,
+      "type": "bundle",
+      "sms": "Yello!You have successfully activated 3000Frw=7GB +30SMS (Mon to Sunday) worth 3,000 RWF\n162TxId:20181524415S\n\nYour payment of 3000 RWF to Bundles and Packs with token  and ET Id: 20181524415 was completed at 2025-10-31 22:41:24. Fee 0 RWF. Balance: 698655 RWF . Message: - -. *EN#"
+    },
+    {
+      "id": 217,
+      "type": "sms_cash_power",
+      "sms": "162TxId:98418074342SYour payment of 20000 RWF to MTN Cash Power with token 50578-14777-31599-65481 and ET Id: 50578-14777-31599-65481 20ba4cdb-5f20-2086-11c9-ddc24829264a was completed at 2025-11-01 09:33:37. Fee 0 RWF. Balance: 414711 RWF . Message: - Electricity units: 49.2kwH.. *EN#"
+    },
+    {
+      "id": 303,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 9000 RWF from Odette RUTAYISIRE Odette RUTAYISIRE (*********563) at 2025-11-01 14:44:27. Message from sender: Transfer from Odette RUTAYISIRE-250795207458 Equity B2C. Balance:651036 RWF. FT Id: 25864091773."
+    },
+    {
+      "id": 177,
+      "type": "sms_cash_power",
+      "sms": "162TxId:42171896879SYour payment of 5000 RWF to MTN Cash Power with token 69226-05577-30115-27710 and ET Id: 69226-05577-30115-27710 f812815a-064c-2957-cac4-2b13d72aca08 was completed at 2025-11-01 14:55:01. Fee 0 RWF. Balance: 477436 RWF . Message: - Electricity units: 11.1kwH.. *EN#"
+    },
+    {
+      "id": 165,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 105000 RWF from Kevin MUGABO Kevin MUGABO (*********485) at 2025-11-02 04:13:46. Message from sender: Transfer from Kevin MUGABO-250795292811 Equity B2C. Balance:796062 RWF. FT Id: 25155192152."
+    },
+    {
+      "id": 266,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:16315906489SYour payment of 30,400 RWF to NYABUGOGO SUPERMARKET 486288 was completed at 2025-11-03 01:32:06.  Balance: 128,502 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 106,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:16235922577SYour payment of 13,400 RWF to Eric 425486 was completed at 2025-11-06 06:19:50.  Balance: 489,172 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 99,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*19000 RWF transferred to Chantal RUTAYISIRE (250724208709) at 2025-11-08 04:51:49 .Fee : 0 RWF. Balance: 260135 RWF. *EN##"
+    },
+    {
+      "id": 235,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:85074673008SYour payment of 10,200 RWF to Nkurunziza 848023 was completed at 2025-11-08 12:44:54.  Balance: 381,556 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 29,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:67790572388SYour payment of 6,700 RWF to Aimable 740967 was completed at 2025-11-10 05:42:39.  Balance: 81,365 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 222,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*13900 RWF transferred to Didier NTEZIRYAYO (250720344164) at 2025-11-10 10:47:25 .Fee : 200 RWF. Balance: 525248 RWF. *EN##"
+    },
+    {
+      "id": 44,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 120000 RWF from Chantal RUTAYISIRE Chantal RUTAYISIRE (*********848) at 2025-11-10 20:57:45. Message from sender: Transfer from Chantal RUTAYISIRE-250795721254 Equity B2C. Balance:286433 RWF. FT Id: 24692143808."
+    },
+    {
+      "id": 192,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:34911025601SYour payment of 9,200 RWF to Mugisha 214675 was completed at 2025-11-11 15:28:48.  Balance: 715,032 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 122,
+      "type": "sms_cash_tx",
+      "sms": "164S*Y'ello, A transaction of 180000 RWF by   was completed at 2025-11-12 22:27:07. Balance:492192 RWF. Fee  0 RWF. FT Id: 25493337053. ET  Id: f542e196-161a-9cf8-169b-1a83bdceca5f.*EN#"
+    },
+    {
+      "id": 67,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*23800 RWF transferred to Kevin MUNYANEZA (250735583290) at 2025-11-21 04:11:27 .Fee : 200 RWF. Balance: 633492 RWF. *EN##"
+    },
+    {
+      "id": 120,
+      "type": "sms_cash_power",
+      "sms": "162TxId:41545686524SYour payment of 25000 RWF to MTN Cash Power with token 69176-55476-14573-37762 and ET Id: 69176-55476-14573-37762 79317de2-3f07-49d0-b7d5-2b20cf1cb80b was completed at 2025-11-21 06:25:12. Fee 0 RWF. Balance: 75841 RWF . Message: - Electricity units: 61.0kwH.. *EN#"
+    },
+    {
+      "id": 116,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 147000 RWF from Samuel UWASE Samuel UWASE (*********887) at 2025-11-21 07:49:15. Message from sender: Transfer from Samuel UWASE-250795395459 Equity B2C. Balance:405422 RWF. FT Id: 25079983898."
+    },
+    {
+      "id": 254,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 26000 RWF from Nsanzimana NIYONSHUTI Nsanzimana NIYONSHUTI (*********237) at 2025-11-24 07:53:57. Message from sender: Transfer from Nsanzimana NIYONSHUTI-250795415076 Equity B2C. Balance:784850 RWF. FT Id: 24951572795."
+    },
+    {
+      "id": 294,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*24700 RWF transferred to Uwimana NDUWIMANA (250770737878) at 2025-11-24 21:36:32 .Fee : 200 RWF. Balance: 124562 RWF. *EN##"
+    },
+    {
+      "id": 188,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:45399211367SYour payment of 26,000 RWF to KIGALI CITY MARKET 664100 was completed at 2025-11-26 05:57:22.  Balance: 322,543 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 289,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*8900 RWF transferred to Niyonsenga UWASE (250753034742) at 2025-11-26 15:48:51 .Fee : 0 RWF. Balance: 257593 RWF. *EN##"
+    },
+    {
+      "id": 45,
+      "type": "sms_cash_power",
+      "sms": "162TxId:59524932597SYour payment of 15000 RWF to MTN Cash Power with token 59087-31963-98366-60910 and ET Id: 59087-31963-98366-60910 ca0fa5f6-b8a8-8062-7df7-ffe0297c79bf was completed at 2025-11-27 18:32:31. Fee 0 RWF. Balance: 585358 RWF . Message: - Electricity units: 33.8kwH.. *EN#"
+    },
+    {
+      "id": 33,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*24900 RWF transferred to Odette MUGABO (250762343121) at 2025-11-29 17:19:16 .Fee : 0 RWF. Balance: 444375 RWF. *EN##"
+    },
+    {
+      "id": 207,
+      "type": "sms_cash_power",
+      "sms": "162TxId:54167695967SYour payment of 5000 RWF to MTN Cash Power with token 17771-98316-53948-07770 and ET Id: 17771-98316-53948-07770 84474a7c-f48d-ce22-c8be-fa02eb2c6d6f was completed at 2025-11-30 05:17:47. Fee 0 RWF. Balance: 286581 RWF . Message: - Electricity units: 11.6kwH.. *EN#"
+    },
+    {
+      "id": 175,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:16339393634SYour payment of 10,800 RWF to Fabrice 495490 was completed at 2025-11-30 07:10:56.  Balance: 584,549 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 83,
+      "type": "sms_cash_power",
+      "sms": "162TxId:92987838356SYour payment of 25000 RWF to MTN Cash Power with token 32853-22871-14408-86646 and ET Id: 32853-22871-14408-86646 040b7a05-814d-32fe-b3e7-19e01fcd3fe2 was completed at 2025-11-30 08:55:29. Fee 0 RWF. Balance: 89714 RWF . Message: - Electricity units: 52.2kwH.. *EN#"
+    },
+    {
+      "id": 57,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 68000 RWF from Nkurunziza MUTONI Nkurunziza MUTONI (*********740) at 2025-11-30 20:06:55. Message from sender: Transfer from Nkurunziza MUTONI-250795718439 Equity B2C. Balance:698300 RWF. FT Id: 25726374301."
+    },
+    {
+      "id": 54,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:39045734699SYour payment of 29,600 RWF to KFC KIGALI 063156 was completed at 2025-12-01 01:20:03.  Balance: 644,244 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 239,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:53383602828SYour payment of 18,500 RWF to Uwimana 514812 was completed at 2025-12-01 06:01:15.  Balance: 619,483 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 105,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:51366484101SYour payment of 23,000 RWF to SENGHA LTD 491699 was completed at 2025-12-02 15:21:52.  Balance: 468,688 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 267,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*4100 RWF transferred to Patrick MUKIZA (250726081422) at 2025-12-03 11:22:17 .Fee : 100 RWF. Balance: 718763 RWF. *EN##"
+    },
+    {
+      "id": 71,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 147000 RWF from Fabrice NIYONSHUTI Fabrice NIYONSHUTI (*********976) at 2025-12-04 17:16:30. Message from sender: Transfer from Fabrice NIYONSHUTI-250795913217 Equity B2C. Balance:435728 RWF. FT Id: 24093731861."
+    },
+    {
+      "id": 146,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 36000 RWF from Beatrice NIYONSHUTI Beatrice NIYONSHUTI (*********674) at 2025-12-05 23:15:02. Message from sender: Transfer from Beatrice NIYONSHUTI-250795440839 Equity B2C. Balance:699395 RWF. FT Id: 25027293866."
+    },
+    {
+      "id": 211,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:99781138522SYour payment of 34,000 RWF to KIMIRONKO FOODS 262552 was completed at 2025-12-06 14:12:59.  Balance: 91,424 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 12,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:96116621144SYour payment of 44,600 RWF to URUGO BARBERSHOP 577057 was completed at 2025-12-06 14:47:59.  Balance: 107,664 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 203,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:27153917645SYour payment of 18,300 RWF to URUGO BARBERSHOP 856401 was completed at 2025-12-06 17:49:07.  Balance: 96,208 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 264,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:35394530005SYour payment of 24,600 RWF to KIGALI CITY MARKET 776909 was completed at 2025-12-07 09:31:24.  Balance: 276,216 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 86,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 56000 RWF from Chantal UWASE Chantal UWASE (*********333) at 2025-12-07 20:48:53. Message from sender: Transfer from Chantal UWASE-250795533914 Equity B2C. Balance:360395 RWF. FT Id: 25776869255."
+    },
+    {
+      "id": 64,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:34523330506SYour payment of 16,600 RWF to Cynthia 938141 was completed at 2025-12-09 02:05:07.  Balance: 255,921 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 30,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:28227774388SYour payment of 18,300 RWF to Fabrice 618392 was completed at 2025-12-11 03:23:40.  Balance: 424,066 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 285,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:81631159274SYour payment of 7,100 RWF to Mugisha 429502 was completed at 2025-12-11 16:58:30.  Balance: 17,960 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 319,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:98077660185SYour payment of 45,800 RWF to JAVA HOUSE KIGALI 080176 was completed at 2025-12-13 03:29:25.  Balance: 767,760 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 43,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 112000 RWF from Grace MUKARUGWIZA Grace MUKARUGWIZA (*********634) at 2025-12-13 06:04:53. Message from sender: Transfer from Grace MUKARUGWIZA-250795782054 Equity B2C. Balance:288201 RWF. FT Id: 25322661697."
+    },
+    {
+      "id": 2,
+      "type": "sms_transfer_to_number",
+      "sms": "165S*2100 RWF transferred to Eric NIYONSHUTI (250741227216) at 2025-12-13 11:42:58 .Fee : 0 RWF. Balance: 534903 RWF. *EN##"
+    },
+    {
+      "id": 19,
+      "type": "sms_cash_power",
+      "sms": "162TxId:97407507057SYour payment of 5000 RWF to MTN Cash Power with token 46898-27535-89399-32706 and ET Id: 46898-27535-89399-32706 3bd4755d-05ad-7853-c1f7-6eb97706ca82 was completed at 2025-12-16 03:06:53. Fee 0 RWF. Balance: 297683 RWF . Message: - Electricity units: 11.5kwH.. *EN#"
+    },
+    {
+      "id": 272,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:87403528096SYour payment of 12,100 RWF to MURAKOZE PHARMACY 762491 was completed at 2025-12-19 04:52:00.  Balance: 142,579 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 280,
+      "type": "sms_cash_power",
+      "sms": "162TxId:56449917928SYour payment of 15000 RWF to MTN Cash Power with token 30737-00358-01671-88032 and ET Id: 30737-00358-01671-88032 23f42238-7e98-e135-19ba-d331045abe82 was completed at 2025-12-20 13:08:19. Fee 0 RWF. Balance: 395722 RWF . Message: - Electricity units: 31.6kwH.. *EN#"
+    },
+    {
+      "id": 74,
+      "type": "sms_received_from_momo",
+      "sms": "You have received 105000 RWF from Nsanzimana NTEZIRYAYO Nsanzimana NTEZIRYAYO (*********258) at 2025-12-20 13:55:53. Message from sender: Transfer from Nsanzimana NTEZIRYAYO-250795178463 Equity B2C. Balance:497296 RWF. FT Id: 25678312775."
+    },
+    {
+      "id": 313,
+      "type": "sms_cash_tx",
+      "sms": "164S*Y'ello, A transaction of 170000 RWF by   was completed at 2025-12-22 00:40:18. Balance:396255 RWF. Fee  0 RWF. FT Id: 24023944891. ET  Id: 4310c296-b6d4-5578-6351-e292836fab47.*EN#"
+    },
+    {
+      "id": 114,
+      "type": "sms_cash_power",
+      "sms": "162TxId:43155368008SYour payment of 30000 RWF to MTN Cash Power with token 86787-51374-16901-77993 and ET Id: 86787-51374-16901-77993 29ca42db-0b95-6af6-7442-931a4c4555e1 was completed at 2025-12-23 00:41:46. Fee 0 RWF. Balance: 435816 RWF . Message: - Electricity units: 77.5kwH.. *EN#"
+    },
+    {
+      "id": 225,
+      "type": "sms_cash_power",
+      "sms": "162TxId:86881818531SYour payment of 5000 RWF to MTN Cash Power with token 72465-93588-97080-85944 and ET Id: 72465-93588-97080-85944 d7a7da82-b315-71c2-e99a-2e0b6997ebf6 was completed at 2025-12-24 09:07:59. Fee 0 RWF. Balance: 773043 RWF . Message: - Electricity units: 12.3kwH.. *EN#"
+    },
+    {
+      "id": 253,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:45695255448SYour payment of 17,700 RWF to URUGO BARBERSHOP 832204 was completed at 2025-12-24 14:48:14.  Balance: 322,776 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 193,
+      "type": "sms_payment_to_merchant",
+      "sms": "TxId:68239107795SYour payment of 9,400 RWF to SIMBA SUPERMARKET 167914 was completed at 2025-12-28 03:30:19.  Balance: 352,067 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    },
+    {
+      "id": 306,
+      "type": "sms_cash_tx",
+      "sms": "164S*Y'ello, A transaction of 82000 RWF by   was completed at 2025-12-29 02:25:43. Balance:519379 RWF. Fee  0 RWF. FT Id: 25696314907. ET  Id: b2a7525d-c2b7-6aab-96f0-3be771ac3c89.*EN#"
+    },
+    {
+      "id": 58,
+      "type": "sms_payment_to_person",
+      "sms": "TxId:30730222987SYour payment of 6,200 RWF to Mugisha 256226 was completed at 2025-12-29 14:25:14.  Balance: 283,535 RWF. Fee 0 RWF.*EN# Download MoMoApp https://tinyurl.com/yc8peh4d and get 5% CASHBACK when you pay merchants using the App"
+    }
+  ]
+}
